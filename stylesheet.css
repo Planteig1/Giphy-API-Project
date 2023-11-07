@@ -1,0 +1,23 @@
+/* Universal Design */
+
+
+
+/* Body Design */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border:solid darkolivegreen 3px;
+
+}
+
+
+/* Search Bar */
+
+
+/* Output Field */
+.output-field {
+    border:solid black 3px;
+    text-align: center;
+}
